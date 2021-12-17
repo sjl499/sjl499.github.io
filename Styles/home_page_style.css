@@ -1,0 +1,483 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#container {
+    width: 700px;
+    background: white;
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    overflow: hidden;
+}
+
+/* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
+#nav_bar {
+	height: 30px;
+	border-bottom-width: 4px;
+	border-bottom-style: solid;
+	border-bottom-color: #0D0000;
+	padding: 0;
+	margin: 0;
+	float: center;
+
+}
+
+#nav_bar ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	overflow: hidden;
+	float: center;
+}
+
+#nav_bar li {
+	margin: auto;
+	padding-right: 14px;
+	float: left;
+	
+}
+
+#nav_bar li a, li.dropbtn {
+	display: inline-block;	
+	color: #000;	
+	text-align: center;
+	padding-bottom: 3px;
+	padding-top: 3px;
+	text-decoration: none;
+
+	font-size: 18px;
+	font-weight: bold;
+	font-variant: small-caps;
+	font-family: Verdana, Geneva, sans-serif;
+	}
+
+#nav_bar li a:hover, li.dropdown:hover, li.dropbtn {
+	color: #C00;
+}
+
+/* Dropdown menu item  */
+#nav_bar li.dropdown {
+	display: inline-block;
+}
+
+#nav_bar .dropdown-content {	
+	/*top:44px;*/
+    display:none;
+    position:absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
+   	z-index: 1;
+}
+
+#nav_bar .dropdown-content a {
+	float:none;
+	color: #000;	
+   	padding: 7px 10px;
+  	text-decoration: none;
+	display: block;
+  	text-align: left;
+	
+	font-size: 16px;
+	font-weight: bold;
+	font-family: Verdana, Geneva, sans-serif;
+
+}
+
+#nav_bar .dropdown-content a:hover {
+	color: #C00;
+}
+
+#nav_bar .dropdown:hover .dropdown-content {
+    display: block;
+	color: #C00;
+}
+
+/* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
+
+#Profile_image, #Personal_details, #Welcome, #Whats_new, #Contact_info, #space_holder_pic {
+	width: 320px;
+	float: left;
+}
+
+#Whats_new {
+	float: right;
+	width: 360px;
+}
+
+#Personal_details {
+	float: right;
+	width: 360px;
+}
+
+#Personal_details, #Whats_new, #space_holder_pic {
+	margin-left: 20px;
+}
+
+#Personal_details h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 46px;
+	font-weight: bold;
+	color: #C00;
+	line-height: 0px;
+	padding-top: 80px;
+	padding-bottom: 15px;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+}
+
+#Personal_details p a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #5D5D5D;
+	padding: 0px;
+	font-weight: bold;
+	line-height: 25px;
+	margin-top: 3px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#Personal_details p a:hover {
+	color: #C00;
+}
+#Personal_details p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #5D5D5D;
+	padding: 0px;
+	font-weight: bold;
+	line-height: 25px;
+	margin-top: 3px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+#Profile_image, #Personal_details {
+	height: 310px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#Welcome {
+	height: auto;
+	padding-bottom: 5px;
+	text-align: left;
+}
+#Whats_new {
+	height: auto;
+	padding-bottom: 5px;
+}
+#Contact_info {
+	height: auto;
+	padding-bottom: 5px;
+}
+#space_holder_pic {
+	height: auto;
+	padding-bottom: 5px;
+}
+#footer img {
+	text-align: center;
+	overflow: hidden;
+}
+#footer {
+	height: auto;
+	width: 700px;
+	float: left;
+	padding-left: -10px;
+	padding-right: -10px;
+	padding-bottom: 5px;
+		padding-top: 5px;
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: normal;
+	color: #C00;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 8px;
+	padding-left: 0px;
+	line-height: normal;
+	margin: 0px;
+}
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #5D5D5D;
+	padding: 0px;
+	line-height: normal;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	alignment-adjust: central;
+}
+h3 {
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: normal;
+	margin: 0px;
+	padding: 0px;
+}
+p a {
+	color: #000;
+	text-decoration: none;
+	
+}
+p a:hover {
+	color: #C00;
+}
+
+p a img.link_image {
+  border: none;
+  margin: 0 auto;
+}
+p a img.link_image:hover {
+ /* -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  -o-transform: scale(1.05);
+  transform: scale(1.05);
+  transition: all 0.1s;
+  -webkit-transition: all 0.1s;*/
+  opacity: 0.6;
+}
+
+#header {
+	height: auto;
+	width: 700px;
+	float: left;
+	padding-left: -10px;
+	padding-right: -10px;
+	padding-top: 5px;
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 46px;
+	font-weight: bold;
+	color: #C00;
+	line-height: 0px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+}
+#page_text {
+	height: auto;
+	padding-bottom: 5px;
+	width: 480px;
+	float: left;
+	margin-left: 20px;
+	padding-right: 0px;
+	padding-left: 00px;
+}
+#page_article {
+	/*height: auto;*/
+	padding-bottom: 5px;
+	width: auto;
+	float: left;
+	padding-right: 10px;
+	padding-left: 0px;
+}
+#page_nav{
+	height: auto;
+	padding-bottom: 5px;
+	width: 200px;
+	float: left;
+	padding-right: 0px;
+	padding-left: 0px;
+}#page_nav h3 a {
+	margin-bottom: 20px;
+}
+h3 a {
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: normal;
+	text-decoration: none;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+}
+h3 a:hover {
+	color: #C00;
+}
+#page_nav p {
+	margin: 0px;
+	padding: 0px;
+	font-size: 9px;
+}
+#page_article p img {
+	float: left;
+	padding-right: 10px;
+	padding-bottom: 15px;
+	padding-top: 5px;
+}
+
+#page_article p img.surround {
+	float: left;
+	padding-right: 10px;
+	/*padding-left: 10px;*/
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+#page_article p img.surround_right {
+	float: right;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+#page_article p img.center {
+	float: left;
+	padding-right: 10px;
+	padding-bottom: 15px;
+	padding-top: 5px;
+}
+#Photo_claimer p {
+	font-size: 12px;
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#Photo_claimer {
+	width: 700px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+ol{
+	margin-left: 0;
+}
+
+li {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #5D5D5D;
+	padding: 0px;
+	line-height: normal;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+}
+
+li a {
+	color: #000;
+	text-decoration: none;
+	
+}
+li a:hover {
+	color: #C00;
+}
+
+br {
+        line-height: 120%;
+     }
+	 
+/* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  */
+/* Pop up boxes http://jsfiddle.net/3Vykc/*/
+.modalDialog {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+	opacity:0;	
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+	       -webkit-transition: opacity 400ms ease-in;
+        -moz-transition: opacity 400ms ease-in;
+        transition: opacity 400ms ease-in;
+        pointer-events: none;
+}
+
+.modalDialog:target {
+	display:block;
+    opacity:1;
+    pointer-events: auto;
+    }
+
+.modalDialog > div {
+		
+	background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding-top: 10px;
+	padding-bottom: 10px;	
+	padding-left: 20px;	
+	padding-right: 17px;
+    border: 5px;
+    width: 800px; /* Could be more or less, depending on screen size */
+	height:auto;
+	overflow:auto;
+    }
+	
+.modalDialog-header {
+	padding-bottom: 10px;
+}
+
+.modalDialog-footer {
+	padding-bottom: 10px;
+}
+
+.modalDialog >div p img {
+	margin:auto;
+	display: block;
+}
+
+.modalDialog >div p img.img_right {
+	margin:auto;
+	padding-left: 20px;
+	display: block;
+}
+
+
+/* The Close Button */
+.close {
+    color: #5D5D5D;
+    float: right;
+    font-size: 24px;
+    font-weight: bold;
+	padding-top:0px;
+	text-decoration: none;
+}
+
+.close:hover, .close:focus {
+    color: #C00;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.btn-circle {
+	height:17px;
+	width:17px;
+    background-color: #C00; 
+	border:none;
+    padding: 0px 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+	border-radius: 50%;
+	color:white;
+}
+
+.btn-circle:hover {
+	background-color: #5D5D5D;
+	color:white;
+}
+
+/* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  */

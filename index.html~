@@ -1,0 +1,170 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Simon Lock - Earth and Planetary Scientist </title>
+<link href="Styles/home_page_style.css" rel="stylesheet" type="text/css">
+<!--<style type="text/css">-->
+<style>
+body {
+	background-color: black; /*5D5D5D;*/
+}
+<!--<!background-color: #A4D3EE;>-->
+</style>
+</head>
+
+<body>
+
+<p>
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38365265-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+  
+</p>
+
+
+<div id="container">
+	<div id="nav_bar">
+  		<ul>
+    	<li><a href="index.html">Home</a></li>
+      	<li class="dropdown">
+        	<a href="Research/Research_home.html" class="dropbtn">Research</a>
+   			<div class="dropdown-content">
+      			<a href="Research/Synestias.html">Synestias</a>
+      			<a href="Research/Moon_formation.html">Moon formation</a>
+                <a href="Research/Pressure_after_GI.html">Pressures after giant impacts</a>
+      			<a href="Research/Atmospheric_loss.html">Origin of atmospheres</a>
+               <a href="Research/Exoplanets.html">Exoplanets</a>
+           </div>
+      </li>
+      <li><a href="Publications.html">Publications</a></li>
+      <li><a href="Teaching.html">Teaching</a></li>
+      <li><a href="Outreach.html">Outreach</a></li>
+      <li><a href="Codes.html">Codes</a></li>
+      <li><a href="Files/Simon_Lock_CV.pdf" target="_blank">CV</a></li>
+    </ul>
+  </div>
+  <div id="Profile_image">
+    <p align="center"><img src="Pictures/052318_EPS_0041_website_ds.jpg" width="320" alt="Simon Lock"></p>
+  </div>
+  <div id="Personal_details">
+    <h1>Simon J. Lock</h1>
+    <p>Planetary Science Option Postdoc <a href="#"></a></p>
+    <p><a href="http://www.gps.caltech.edu/" target="_blank">Division of Geological and Planetary Sciences</a></p>
+    <p><a href="http://www.caltech.edu/" target="_blank">California Institute of Technology</a>  </p>
+    <p>&nbsp;</p>
+  </div>
+  <div id="Welcome">
+    <h2>Research</h2>
+    <p>My research lies at the boundary between the fields of astrophysics, planetary science, geophysics and geochemistry. I study the formation, structure and evolution of terrestrial and giant planets. In particular, I aim to elucidate the history of Earth and how it became habitable. <a href="Research/Research_home.html">More...</a></p>
+    <div>
+    </div>
+  </div>
+  <div id="Whats_new">
+    <h2>What's New?</h2>
+
+    
+    
+    <h3>AGU 2020 </h3>
+    <p> Please tune in to  my talk (DI022-01 A tectonically active early Earth driven by the tidal recession of the Moon) at this years AGU. The closed captioning has some significant (if amusing) errors so <a href="Files/AGU2020_transcipt_final.pdf" target="_blank">here</a> is a transcript of my talk. Video and slides may follow soon. </p>
+
+    
+    <h3>New paper on visualization of astrophysical data </h3>
+    <p> A <a href="https://www.sciencedirect.com/science/article/pii/S2213133720300780" target="_blank">new paper</a> led by University of Illinois graduate student Pat Aleo is out in Astronomy and Computing. The paper describes a new pipeline for producing physically-meaningful cinematic visualizations of astrophysical simulations using terrestrial synestias as an example. All the tools are available for you to try your own visualizations at home! A preprint of the accepted manuscript is available <a href="https://arxiv.org/abs/2006.00084" target="_blank">here</a>.</p>
+ 
+    
+    
+    <h3>New paper in Space Science Reviews </h3>
+    <p> A <a href="https://link.springer.com/article/10.1007/s11214-020-00729-z" target="_blank">new collaborative paper</a> is out in Space Science Reviews! This was the result of the ISSI Europlanet Workshop "Reading Terrestrial Planet Evolution in Isotopes and Element Measurements" held in October 2018 in Bern, Switzerland. The paper discusses geodynamical models of lunar origin in light of geochemical constraints from lunar and terrestrial rocks. A preprint of the accepted manuscript is available <a href="Files/Lock_2020-SSR_Geochem_constraints_lunar_origin-preprint.pdf" target="_blank">here</a>.</p>
+ 
+    
+    <h3>The energy budget during and after giant impacts </h3>
+    <p> We have published two new studies looking at the energy budget during giant impacts (<a href="http://arxiv.org/abs/1912.04936" target="_blank">Carter et al., accepted</a>) and how the energy budget and shape of post-impacts planets change as they recover after impacts (<a href="https://doi.org/10.1016/j.epsl.2019.115885" target="_black">Lock et al., 2020</a>). We find that changes in kinetic, potential and internal energy are all significant with implications for the structure of post-impact bodies, the early evolution of Earth and the dynamics of lunar tidal recession.</p>
+ 
+    
+    <h3>Pressures after giant impacts </h3>
+    <p> We have published a new study showing that the pressures in bodies after giant impacts can be less than half what had been expected, changing the interpretation of the geochemical tracers of accretion. Pressures increase after impacts as the body cools and satelites tidally receed, driving a number of previously unrecognized processes.
+    
+    <p><a href="https://www.caltech.edu/about/news/planetary-collisions-can-drop-internal-pressures-planets" target="_blank">Caltech press release </a> </p>
+    <p><a href="https://advances.sciencemag.org/content/5/9/eaav3746" target="_blank"> Open access paper </a> </p> 
+    </p>
+    <p><video width="100%" height="auto" controls>
+  <source src="Movies/Lock_and_Stewart_RC05_2_downsamp.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>	</p>
+    
+    <h3>Pellas-Ryder award </h3>
+    <p>I have been award the Pellas-Ryder award! Jointly awarded by the Meteoritical Society and the Planetary Division of the Geological Society of America, this award is conveyed for the best planetary science paper written by an undergraduate or graduate student and published during the previous year. The award recognizes my work on lunar origin which was published in <a href="http://onlinelibrary.wiley.com/doi/10.1002/2017JE005333/full" target="_blank">Lock et al. (2018).</a> See citation <a href="https://meteoritical.org/news" target="_blank">here</a>. </p>
+   
+     <h3>Colloquium at the Carnegie Institute</h3>
+    <p>I recently gave a seminar at the <a href="https://gl.carnegiescience.edu/" target="_blank">Geophysical Laboratory</a> at the Carnegie Institute. You can find a link to a video of the presentation <a href="https://www.youtube.com/watch?v=JwfTHLzhZw0" target="_blank">here</a>. </p>
+    
+    <h3>New Adler Planetarium show</h3>
+    <p><a href="https://www.adlerplanetarium.org" target="_blank">Adler Planetarium</a> in Chicago has developed a new show, <a href="https://www.adlerplanetarium.org/events/imagine-the-moon/" target="_blank">'Imagine the Moon'</a>,  that 'explores how the Moon has inspired human creativity, learning, and exploration ever since we have looked to the sky'. This show features some amazing animations of our recently proposed Moon model, created with input from Sarah Stewart and myself.</p>
+ 
+    
+    <h3>Sarah Stewart is a genius</h3>
+    <p>Congratulations to my former Ph.D advisor, Sarah Stewart, for being selected as a <a href="https://www.macfound.org/programs/fellows/" target="_blank"> MacArthur Fellow</a>. This award is commonly known as the 'genius grant'.</p>
+      
+    <h3>Origin of the Moon</h3>
+    <p>We have proposed a new model for the origin of the Moon: that the Moon formed inside the vaporized Earth. Our model can explain various observations of Earth and the Moon for the first time. <a href="Research/Moon_formation.html">Learn more...</a> </p>
+    <p><a href="https://www.ucdavis.edu/news/how-moon-formed-inside-vaporized-earth-synestia" target="_blank">UC Davis press release </a> </p> 
+   <p><a href="https://news.harvard.edu/gazette/story/2018/03/new-origin-story-for-moon-in-harvard-led-research/" target="_blank">Harvard Gazette </a> </p> <!--
+    <p><a href="https://www.ucdavis.edu/news/synestia-new-type-planetary-object" target="_blank">UC Davis press release </a> </p>
+     <p><a href="https://news.agu.org/press-release/researchers-propose-new-type-of-planetary-object/" target="_blank"> AGU press release</a> </p> -->
+     <p><a href="http://onlinelibrary.wiley.com/doi/10.1002/2017JE005333/full" target="_blank"> Journal article </a> </p>
+     <p><a href="https://arxiv.org/abs/1802.10223" target="_blank"> Preprint on arXiv </a> </p>
+    
+    
+    <h3>A new astrophysical structure</h3>
+    <p>We have discovered a completely new type of astrophysical object that we have named synestias. These are fascinating objects that have the potential to revolutionize our understanding of how planets form and evolve. Intrigued? <a href="Research/Synestias.html">Learn more...</a></p>
+    <p><a href="https://soundcloud.com/user-570302262/three-minute-egghead-synestia-a-new-planetary-object?in=user-570302262/sets/three-minute-egghead-a-podcast" target="_blank">UC Davis podcast </a> </p>
+     <p><a href="https://www.ucdavis.edu/news/synestia-new-type-planetary-object" target="_blank">UC Davis press release </a> </p>
+     <p><a href="https://news.agu.org/press-release/researchers-propose-new-type-of-planetary-object/" target="_blank"> AGU press release</a> </p>
+     <p><a href="http://onlinelibrary.wiley.com/doi/10.1002/2016JE005239/full" target="_blank"> Journal article </a> </p>
+     <p><a href="http://arxiv.org/abs/1705.07858" target="_blank"> ArXiv pre-print</a> </p>
+     
+   
+    <p>&nbsp;</p>
+  </div>
+  <div id="Contact_info">
+    <h2>Contact Information</h2>
+    <h3>Email:</h3>
+    <p><a href="mailto:slock@caltech.edu">slock {at} caltech {dot} edu</a></p>
+    <h3>Phone:</h3>
+    <p>(617) 520-4813   (Google Voice)</p>
+    <p>(626) 395-3296   (Office)</p>
+    <h3>Mail:</h3>
+    <p> Division of Geological and Planetary Sciences <br>
+      California Institute of Technology <br>
+      1200 East California Boulevard <br>
+      Pasadena <br>
+      CA 91125 <br>
+      USA </p>
+    <p>&nbsp;</p> 
+    <br>
+  </div>
+  <div id="space_holder_pic"></div>
+
+  <div id="footer"><img src="Pictures/Terrestrial_planets.jpg" width="700" height="214" alt="Terrestrial planets"></div>
+  <!--<div id="footer"><img src="pictures/Photos_from_dad/Newlands 008.jpg" width="700" height="214" alt="Newlands"></div>-->
+</div>
+<div id="Photo_claimer">
+<p> All photos used on this site are either available under a creative commons license, or are the property of Brian Lock or NASA.
+  </p>
+
+  </div>
+
+  
+</body>
+</html>
